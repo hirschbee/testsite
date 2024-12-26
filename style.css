@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(29, 28, 28);
+    text-align: center;
+}
+h1{
+    color: rgb(209, 161, 5);
+
+}
+p{
+    color: antiquewhite;
+
+}
+a {
+    color: yellowgreen;
+    font-family: monospace;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(121, 156, 50);
+
+    text-decoration: underline;
+
+}
+a:visited{
+    color: yellowgreen;
+
+    text-decoration: none;
+}
